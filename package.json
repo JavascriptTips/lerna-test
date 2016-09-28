@@ -1,0 +1,10 @@
+{
+  "name":"lerna-test",
+  "devDependencies": {
+    "lerna": "2.0.0-beta.29"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JavascriptTips/lerna-test.git"
+  }
+}
