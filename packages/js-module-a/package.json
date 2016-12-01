@@ -1,13 +1,13 @@
 {
   "name": "js-module-a",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "b-lerna-test": "^1.0.3"
+    "b-lerna-test": ""
   },
   "author": "",
   "license": "ISC"
